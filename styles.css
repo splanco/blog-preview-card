@@ -37,6 +37,21 @@ main {
     border-radius: 10px;
 }
 
+.article-tag {
+    width: fit-content;
+    background-color: var(--main-bg-color);
+    border-radius: 0.25rem;
+    padding: 0.4rem 0.7rem;
+    margin-block-start: 1rem;
+    font-size: 1.3ch;
+    font-weight: 800;
+}
+
+.article-date {
+    font-size: 1.3ch;
+    font-weight: 500;
+}
+
 .attribution {
     flex-shrink: 0;
 }
