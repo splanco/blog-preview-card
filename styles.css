@@ -24,6 +24,7 @@ main {
 }
 
 .card {
+    width: 28%;
     background-color: white;
     border: 1px solid var(--gray-950);
     border-radius: 10px;
@@ -32,6 +33,7 @@ main {
 }
 
 .article-illustration {
+    width: 100%;
     border-radius: 10px;
 }
 
