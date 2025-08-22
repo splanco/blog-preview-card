@@ -31,6 +31,10 @@ main {
     padding: 1rem;
 }
 
+.article-illustration {
+    border-radius: 10px;
+}
+
 .attribution {
     flex-shrink: 0;
 }
