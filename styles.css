@@ -24,7 +24,8 @@ main {
 }
 
 .card {
-    width: 20rem;
+    width: 77%;
+    max-width: 20rem;
     background-color: white;
     border: 1px solid var(--gray-950);
     border-radius: 1.25rem;
