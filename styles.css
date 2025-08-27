@@ -60,6 +60,12 @@ main {
 .article-title {
     font-size: 140%;
     font-weight: 800;
+    width: fit-content;
+}
+
+.article-title:hover {
+    color: var(--main-bg-color);
+    cursor: pointer;
 }
 
 .article-description {
